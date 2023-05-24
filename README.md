@@ -2,7 +2,7 @@
 
 ![Fast Api Guide](./Pydantic-Uvicorn-Fastapi-2023-04-22-0925.png)   
 
-[Introduction](https://www.github.com)  
+[Introduction](https://github.com/otienosteve/intro-to-fastapi)  
 [Making Get Request with Fast API](https://www.github.com)  
 [Get Request Lab](https://www.github.com)   
 [Post Put Request](https://www.github.com)  
