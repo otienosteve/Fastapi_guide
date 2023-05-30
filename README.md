@@ -10,7 +10,7 @@ All Content should be updated by EOD today but you can begin with the one's mark
 
 [Introduction](https://github.com/otienosteve/intro-to-fastapi)  ✔️  
 [Making Get Request with Fast API](https://github.com/otienosteve/making-a-get-request-with-fast-api)   ...✍️     
-[Get Request Lab](https://www.github.com)   ✔️  
+[Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
 [Post Put Request](https://github.com/otienosteve/making-post-put-request-with-fast-api) ...✍️    
 [Post Put Request Lab](https://www.github.com)  ✔️  
 [Patch Delete Request](https://github.com/otienosteve/making-patch-delete-requests-with-fast-api) ...✍️   
