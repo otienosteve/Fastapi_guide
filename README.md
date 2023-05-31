@@ -9,7 +9,7 @@ Key
 All Content should be updated by EOD today but you can begin with the one's marked done.    
 
 [Introduction](https://github.com/otienosteve/intro-to-fastapi)  ✔️  
-[Video - Making Get Request with Fast API](https://github.com/otienosteve/making-a-get-request-with-fast-api)   ...✍️     
+[Video - Making Get Request with Fast API](https://youtu.be/IYfPc5_-2-o)   ✔️        
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
 [Video - Making Post Put Request](https://github.com/otienosteve/making-post-put-request-with-fast-api) ...✍️    
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
