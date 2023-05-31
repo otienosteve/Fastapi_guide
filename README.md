@@ -6,7 +6,7 @@ Key
 ✔️ - Done   
 ...✍️ - In Progress 
  
-All Content should be updated by EOD today but you can begin with the one's marked done.    
+All Content should be updated by 1/9/2023 but you can begin with the one's marked done.    
 
 [Introduction](https://github.com/otienosteve/intro-to-fastapi)  ✔️  
 [Video - Making Get Request with Fast API](https://youtu.be/IYfPc5_-2-o)   ✔️        
