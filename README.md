@@ -4,12 +4,10 @@
 
 Key  
 ✔️ - Done   
-...✍️ - In Progress 
- 
-All Content should be updated by 1/9/2023 but you can begin with the one's marked done.    
+...✍️ - In Progress    
 
 [Introduction](https://github.com/otienosteve/intro-to-fastapi)  ✔️  
-[Video - Making Get Request with Fast API](https://youtu.be/IYfPc5_-2-o)   ✔️        
+[Full CRUD ](https://drive.google.com/file/d/1Fz6pHjmGDX3ajPlixWY9xyeQcYjiTPd7/view)   ✔️           
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
 [Video - Making Post Put Request](https://github.com/otienosteve/making-post-put-request-with-fast-api) ...✍️    
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
