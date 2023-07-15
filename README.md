@@ -9,10 +9,14 @@ Key
 [Introduction](https://github.com/otienosteve/intro-to-fastapi)  ✔️  
 [Full CRUD ](https://drive.google.com/file/d/1Fz6pHjmGDX3ajPlixWY9xyeQcYjiTPd7/view)   ✔️    
 [Video - Making Get Request with Fast API](https://youtu.be/Jv4ZJzLTfmQ)   ✔️              
+[Get Request Code Along]() ...✍️    
+[Pydantic and Parameters Along]() ...✍️      
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
-[Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️     
+[Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️    
+[Post Put Request Code Along]() ...✍️          
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
 [Video - Making Patch Delete Request](https://youtu.be/I9IJdTqyIaM?list=PLqVWkj8fK0M231C7JKK3EzXxUZrzICTIq)   ✔️  
+[Patch Put Request Code Along]() ...✍️     
 [Patch Delete Request Lab](https://youtu.be/I9IJdTqyIaM)  ✔️      
 [Working with Relations in Fast API](https://github.com/otienosteve/working-with-related-database-data-in-fast-api) ...✍️       
 [Mini Project](https://github.com/otienosteve/fast-api-mini-project) ...✍️  
