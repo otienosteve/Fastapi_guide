@@ -10,11 +10,11 @@ Key
 [Full CRUD ](https://drive.google.com/file/d/1Fz6pHjmGDX3ajPlixWY9xyeQcYjiTPd7/view)   ✔️    
 [Video - Making Get Request with Fast API](https://youtu.be/Jv4ZJzLTfmQ)   ✔️              
 [Get Request Code Along]() ...✍️    
-[Pydantic and Parameters Along]() ...✍️      
+[Pydantic and Parameters Code Along]() ...✍️      
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
 [Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️    
 [Post Put Request Code Along]() ...✍️          
-[Pydantic Validation]() ...✍️      
+[Pydantic Validation and Error Handling]() ...✍️      
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
 [Video - Making Patch Delete Request](https://youtu.be/I9IJdTqyIaM?list=PLqVWkj8fK0M231C7JKK3EzXxUZrzICTIq)   ✔️  
 [Patch Put Request Code Along]() ...✍️     
