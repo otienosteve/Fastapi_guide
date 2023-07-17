@@ -14,6 +14,7 @@ Key
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
 [Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️    
 [Post Put Request Code Along]() ...✍️          
+[Pydantic Validation]() ...✍️      
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
 [Video - Making Patch Delete Request](https://youtu.be/I9IJdTqyIaM?list=PLqVWkj8fK0M231C7JKK3EzXxUZrzICTIq)   ✔️  
 [Patch Put Request Code Along]() ...✍️     
