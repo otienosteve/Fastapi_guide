@@ -17,7 +17,7 @@ Key
 [Pydantic Validation and Error Handling]() ...✍️      
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
 [Video - Making Patch Delete Request](https://youtu.be/I9IJdTqyIaM?list=PLqVWkj8fK0M231C7JKK3EzXxUZrzICTIq)   ✔️  
-[Patch Put Request Code Along]() ...✍️     
+[Patch Delete Request Code Along]() ...✍️     
 [Patch Delete Request Lab](https://youtu.be/I9IJdTqyIaM)  ✔️   
 [Documenting your API]() ...✍️    
 [Working with Relations in Fast API](https://github.com/otienosteve/working-with-related-database-data-in-fast-api) ...✍️       
