@@ -7,8 +7,9 @@ Key
 ...✍️ - In Progress 
   
 [Introduction](https://github.com/otienosteve/intro-to-fastapi)  ✔️  
-[Full CRUD ](https://drive.google.com/file/d/1Fz6pHjmGDX3ajPlixWY9xyeQcYjiTPd7/view)   ✔️    
-[Video - Making Get Request with Fast API](https://youtu.be/Jv4ZJzLTfmQ)   ✔️              
+[Full CRUD ](https://drive.google.com/file/d/1Fz6pHjmGDX3ajPlixWY9xyeQcYjiTPd7/view)   ✔️  
+[Getting started With Fastapi ](https://github.com/otienosteve/fastapi-setup)  ✔️       
+[Video - Making Get Request with Fast API](https://youtu.be/Jv4ZJzLTfmQ)   ✔️      
 [Making Get Requests with Fastapi ]() ...✍️    
 [Pydantic and Parameters Code Along]() ...✍️      
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
