@@ -10,8 +10,8 @@ Key
 [Full CRUD ](https://drive.google.com/file/d/1Fz6pHjmGDX3ajPlixWY9xyeQcYjiTPd7/view)   ✔️  
 [Getting started With Fastapi ](https://github.com/otienosteve/fastapi-setup)  ✔️       
 [Video - Making Get Request with Fast API](https://youtu.be/Jv4ZJzLTfmQ)   ✔️      
-[Making Get Requests with Fastapi ](https://github.com/otienosteve/get-requests-with-fastapi) ✔️     
-[Pydantic and Parameters Code Along]() ...✍️      
+[Making Get Requests with Fastapi ](https://github.com/otienosteve/get-requests-with-fastapi) ✔️        
+[Pydantic and Parameters Code Along](https://github.com/otienosteve/intro-to-pydantic)  ✔️           
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
 [Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️    
 [Post Put Request Code Along]() ...✍️          
