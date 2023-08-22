@@ -14,7 +14,7 @@ Key
 [Pydantic and Parameters Code Along](https://github.com/otienosteve/intro-to-pydantic)  ✔️           
 [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️  
 [Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️    
-[Post Put Request Code Along]() ...✍️          
+[Post Put Request Code Along](https://github.com/otienosteve/post-put-request-code-along)  ✔️         
 [Pydantic Validation and Error Handling]() ...✍️      
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
 [Video - Making Patch Delete Request](https://youtu.be/I9IJdTqyIaM?list=PLqVWkj8fK0M231C7JKK3EzXxUZrzICTIq)   ✔️  
