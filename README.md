@@ -20,7 +20,9 @@ Key
 [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
 [Video - Making Patch Delete Request](https://youtu.be/I9IJdTqyIaM?list=PLqVWkj8fK0M231C7JKK3EzXxUZrzICTIq)   ✔️  
 [Patch Delete Request Code Along](https://github.com/otienosteve/fastapi-patch-delete-request-code-along)  ✔️      
-[Patch Delete Request Lab](https://youtu.be/I9IJdTqyIaM)  ✔️   
-[Documenting your API]() ...✍️    
-[Working with Relations in Fast API](https://github.com/otienosteve/working-with-related-database-data-in-fast-api) ...✍️       
+[Patch Delete Request Lab](https://youtu.be/I9IJdTqyIaM)  ✔️     
+Relations and Fastapi  
+- [Setting up relationships](https://github.com/otienosteve/setting-up-relationships-in-sqlalchemy)       ✔️     
+- [Working with Relations in Fast API](https://github.com/otienosteve/working-with-related-database-data-in-fast-api)  ...✍️       
+
 [Mini Project](https://github.com/otienosteve/fast-api-mini-project) ...✍️  
