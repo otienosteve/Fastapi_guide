@@ -6,7 +6,8 @@ Key
 ✔️ - Done   
 ...✍️ - In Progress     
 - Day 1: Introduction
-    - [Introduction to Servers](https://github.com/otienosteve/introduction-to-Servers)   ✔️        
+    - [Introduction to Servers](https://github.com/otienosteve/introduction-to-Servers)   ✔️      
+    - [Webserver Evolution cgi-fastcgi-wsgi-asgi](https://github.com/otienosteve/web-servers-cgi-fastcgi-wsgi-asgi)   ...✍️           
     - [Introduction to fastapi](https://github.com/otienosteve/intro-to-fastapi)  ✔️  
 - Day 2: Get Requests
     - [Getting started With Fastapi ](https://github.com/otienosteve/fastapi-setup)  ✔️       
@@ -36,7 +37,4 @@ Key
 - Day 9: Web Sockets ...✍️  
 - Day 10: Tanstack and Fatsapi ...✍️  
 - Day 11: Deployment ...✍️  
-
-
-
-[Mini Project](https://github.com/otienosteve/fast-api-mini-project) ...✍️  
+- [Mini Project](https://github.com/otienosteve/fast-api-mini-project)  ...✍️  
