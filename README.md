@@ -19,7 +19,7 @@ Key
     - [Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️    
     - [Post Put Request Code Along](https://github.com/otienosteve/post-put-request-code-along)  ✔️         
     - [Post Put Request Lab](https://github.com/otienosteve/python-p3-post-put-request-lab/)  ✔️  
-- Day 4: Pydantic 
+- Day 4: Pydantic Validation and Parsing
     - [Pydantic Validation and Parsing Lesson ](https://github.com/otienosteve/pydantic-validation-and-parsing)  ✔️        
     - [Pydantic Validation and Parsing code along ](https://github.com/otienosteve/pydantic-validation-code-along) ✔️    
     - [Pydantic Lab]()  ...✍️   
