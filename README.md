@@ -22,7 +22,7 @@ Key
 - Day 4: Pydantic Validation and Parsing
     - [Pydantic Validation and Parsing Lesson ](https://github.com/otienosteve/pydantic-validation-and-parsing)  ✔️        
     - [Pydantic Validation and Parsing code along ](https://github.com/otienosteve/pydantic-validation-code-along) ✔️    
-    - [Pydantic Lab]()  ...✍️   
+    - [Pydantic Lab](https://github.com/otienosteve/pydantic_lab)  ...✍️       
 - Day 5: Patch delete Request
     - [Video - Making Patch Delete Request](https://youtu.be/I9IJdTqyIaM?list=PLqVWkj8fK0M231C7JKK3EzXxUZrzICTIq)   ✔️  
     - [Patch Delete Request Code Along](https://github.com/otienosteve/fastapi-patch-delete-request-code-along)  ✔️      
