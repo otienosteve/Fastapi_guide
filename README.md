@@ -34,7 +34,7 @@ Key
     - [Working With Relations Lab]() ...✍️    
 - Day 7: Modularity, connecting backend and frontend, cloudinary  ...✍️  
 - Day 8: Authentication ...✍️  
-- Day 9: Web Sockets ...✍️  
+- Day 9: WebSockets,...✍️  
 - Day 10: Tanstack and Fatsapi ...✍️  
 - Day 11: Deployment ...✍️  
 - [Mini Project](https://github.com/otienosteve/fast-api-mini-project)  ...✍️  
