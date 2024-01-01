@@ -14,7 +14,7 @@ Key
     - [Video - Making Get Request with Fast API](https://youtu.be/Jv4ZJzLTfmQ)   ✔️      
     - [Making Get Requests with Fastapi ](https://github.com/otienosteve/get-requests-with-fastapi) ✔️        
     - [Get Request Lab](https://github.com/otienosteve/python-p3-get-request-lab)   ✔️      
-    - [Dependencies in Fastapi](./https://github.com/otienosteve/dependencies-in-fastapi) ...✍️     
+    - [Dependencies in Fastapi](https://github.com/otienosteve/dependencies-in-fastapi) ...✍️     
 - Day 3: Intro to Pydantic, Post Put Request
     - [Introduction to Pydantic and Parameters Code Along](https://github.com/otienosteve/intro-to-pydantic)  ✔️           
     - [Video - Making Post Put Request](https://youtu.be/2hUYrYTanG0)   ✔️    
