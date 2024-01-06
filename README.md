@@ -30,7 +30,7 @@ Key
     - [Patch Delete Request Lab](https://github.com/otienosteve/python-p3-patch-delete-request-lab)  ✔️    
 - Day 6 : Relations and Fastapi  
     - [Setting up relationships](https://github.com/otienosteve/setting-up-relationships-in-sqlalchemy)       ✔️     
-    - [Working with relations Video]() ...✍️   
+    - [Working with relations Video]() ...✍️    
     - [Working with Relations in Fast API](https://github.com/otienosteve/working-with-related-database-data-in-fast-api)    ✔️  
         - [Working With Relations Lab one-to-many](https://github.com/otienosteve/fastapi-one-to-many-lab) ✔️       
         - [Working With Relations Lab many-to-many](https://github.com/otienosteve/fastapi-one-to-many-lab) ✔️  
