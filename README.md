@@ -34,10 +34,9 @@ Key
     - [Working with Relations in Fast API](https://github.com/otienosteve/working-with-related-database-data-in-fast-api)    ✔️  
         - [Working With Relations Lab one-to-many](https://github.com/otienosteve/fastapi-one-to-many-lab) ✔️       
         - [Working With Relations Lab many-to-many](https://github.com/otienosteve/fastapi-one-to-many-lab) ✔️  
-- Day 7: SQLModel   
-- Day 8: connecting backend and frontend, cloudinary  ...✍️  
-- Day 9: Authentication ...✍️  
-- Day 10: WebSockets,...✍️      
-- Day 11: Deployment ...✍️     
+- Day 7: connecting backend and frontend, cloudinary  ...✍️  
+- Day 8: Authentication ...✍️  
+- Day 9: WebSockets,...✍️      
+- Day 10: Deployment ...✍️     
 - Bonus : Swagger,Generating Clients, Tanstack and Fastapi  
 - [Mini Project](https://github.com/otienosteve/fast-api-mini-project)  ...✍️  
