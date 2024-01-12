@@ -39,7 +39,7 @@ Key
     - cloudinary  ...✍️  
 - Day 8: Authentication ...✍️  
 - Day 9: Payment Integration: Mpesa, Stripe ...✍️   
-- Day 9: WebSockets,...✍️      
-- Day 10: Deployment ...✍️     
+- Day 10: WebSockets,...✍️      
+- Day 11: Deployment ...✍️     
 - Bonus : Swagger,Generating Clients, Tanstack and Fastapi  
 - [Mini Project](https://github.com/otienosteve/fast-api-mini-project)  ...✍️  
