@@ -38,8 +38,9 @@ Key
     - [Integrating backend and frontend](https://github.com/otienosteve/frontend-backend-integration)...✍️  
     - cloudinary  ...✍️  
 - Day 8: Authentication ...✍️  
-- Day 9: Payment Integration: Mpesa, Stripe ...✍️   
-- Day 10: WebSockets,...✍️      
-- Day 11: Deployment ...✍️     
+- Day 9: USSD Programming ...✍️     
+- Day 10: Payment Integration: Mpesa, Stripe ...✍️   
+- Day 11: WebSockets,...✍️      
+- Day 12: Deployment ...✍️     
 - Bonus : Swagger,Generating Clients, Tanstack and Fastapi  
 - [Mini Project](https://github.com/otienosteve/fast-api-mini-project)  ...✍️  
