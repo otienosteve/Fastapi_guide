@@ -39,7 +39,9 @@ Key
     - [Integrating backend and frontend](https://github.com/otienosteve/frontend-backend-integration)...✍️  
     - cloudinary  ...✍️  
 - Day 9: Authentication ...✍️  
-- Day 10: External Api Integration [Mpesa, AfricasTalking, Stripe/Flutterwave ] ...✍️     
+- Day 10: External Api Integration [Mpesa, AfricasTalking, Stripe/Flutterwave ] ...
+✍️
+- Test Driven Development ...✍️      
 - Day 11: Deployment [Local deployment, Cpanel, Paas]...✍️     
 - Bonus : Swagger,Generating Clients, Tanstack and Fastapi  
 - [Mini Project](https://github.com/otienosteve/fast-api-mini-project)  ...✍️  
