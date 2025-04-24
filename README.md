@@ -34,13 +34,12 @@ Key
     - [Working with Relations in Fast API](https://github.com/otienosteve/working-with-related-database-data-in-fast-api)    ✔️  
         - [Working With Relations Lab one-to-many](https://github.com/otienosteve/fastapi-one-to-many-lab) ✔️       
         - [Working With Relations Lab many-to-many](https://github.com/otienosteve/fastapi-one-to-many-lab) ✔️  
-- Day 7:Connecting backend and frontend     
+- Day 7: WebSockets,...✍️      
+- Day 8: Full Stack development     
     - [Integrating backend and frontend](https://github.com/otienosteve/frontend-backend-integration)...✍️  
     - cloudinary  ...✍️  
-- Day 8: Authentication ...✍️  
-- Day 9: USSD Programming ...✍️     
-- Day 10: Payment Integration: Mpesa, Stripe ...✍️   
-- Day 11: WebSockets,...✍️      
-- Day 12: Deployment ...✍️     
+- Day 9: Authentication ...✍️  
+- Day 10: External Api Integration [Mpesa, AfricasTalking, Stripe/Flutterwave ] ...✍️     
+- Day 11: Deployment [Local deployment, Cpanel, Paas]...✍️     
 - Bonus : Swagger,Generating Clients, Tanstack and Fastapi  
 - [Mini Project](https://github.com/otienosteve/fast-api-mini-project)  ...✍️  
